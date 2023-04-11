@@ -178,7 +178,13 @@ body {
 }
 /* education */
 .educ {
-  margin-top: 45px;
+  display: flex;
+  gap: 10px;
+  flex-direction: column;
+}
+.educt {
+  display: flex;
+  gap: 120px;
 }
 .university {
   font-style: normal;
@@ -187,14 +193,14 @@ body {
   line-height: 20px;
   color: var(--accent-color);
   margin-bottom: 10px;
-  margin-top: 18px;
+    margin-top: 0;
 }
 .faculty {
   font-style: normal;
   font-weight: 700;
   font-size: 14px;
   line-height: 17px;
-  color:var(--titleW-color);
+  color:#a8a8a8;;
   margin-bottom: 10px;
   margin-top: 0;
 }
