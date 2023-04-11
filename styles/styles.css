@@ -85,6 +85,7 @@ body {
   color:var(--title-color);
 }
 .project,
+.work,
 .project__link {
   font-style: normal;
   font-weight: 400;
