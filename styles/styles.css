@@ -201,7 +201,7 @@ body {
   font-weight: 700;
   font-size: 14px;
   line-height: 17px;
-  color:#a8a8a8;;
+  color: var(--title-color);
   margin-bottom: 10px;
   margin-top: 0;
 }
